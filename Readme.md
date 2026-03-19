@@ -24,6 +24,6 @@ My background includes 20+ years across SaaS, technical solution sales, enterpri
 
 ## Contact
 
-- LinkedIn: [Add your LinkedIn URL]
-- Portfolio: [Add your Notion portfolio URL]
+- LinkedIn: (https://www.linkedin.com/in/alan-taylor-/)
+- Portfolio:(https://pentagonal-ranunculus-633.notion.site/Alan-J-Taylor-328f943cbbf080e99e47e97064bc694b?source=copy_link)
 - Email: alanjtaylor.1776@gmail.com
