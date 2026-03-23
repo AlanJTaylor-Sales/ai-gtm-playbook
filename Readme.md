@@ -1,4 +1,4 @@
-# AI-Driven Go-to-Market Playbook
+# AI GTM Playbook
 
 This repository is a structured go-to-market (GTM) playbook designed to help build, refine, and execute scalable revenue strategies for SaaS and AI-driven businesses.
 
