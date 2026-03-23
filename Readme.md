@@ -1,29 +1,79 @@
-# AJ Taylor | ai-gtm-playbook
+# AI-Driven Go-to-Market Playbook
 
-This repository is a practical snapshot of how I think about enterprise sales, go-to-market execution, and the use of AI in modern revenue teams.
+This repository is a structured go-to-market (GTM) playbook designed to help build, refine, and execute scalable revenue strategies for SaaS and AI-driven businesses.
 
-My background includes 20+ years across SaaS, technical solution sales, enterprise account growth, and business leadership. I’ve built pipeline from scratch, led complex multi-stakeholder sales cycles, and helped turn technical solutions into measurable business outcomes.
+## Purpose
 
-## What’s Included
+The goal of this playbook is to bridge the gap between:
 
-- **AI Sales Playbook** – practical uses of AI in prospecting, account research, messaging, and sales preparation
-- **Pipeline Strategy** – how I approach account targeting, opportunity creation, and deal progression
-- **Enterprise Deal Case Study** – an example of how I think through complex sales motions
-- **Modern Sales Stack** – the tools and systems I’ve used or understand in modern GTM environments
-- **Notes on AI and Sales** – thoughts on how AI is changing selling, workflows, and decision-making
+• Customer insight  
+• Market positioning  
+• Pipeline generation  
+• Revenue execution  
 
-## Focus Areas
+It reflects how modern go-to-market should operate—combining structured strategy with real-world execution.
 
-- Enterprise Sales
-- Full-Cycle Sales
-- Pipeline Creation
-- GTM Strategy
-- Value-Based Selling
-- AI in Sales Workflows
-- Technical Solution Selling
+---
 
-## Contact
+## What This Includes
 
-- LinkedIn: (https://www.linkedin.com/in/alan-taylor-/)
-- Portfolio:(https://pentagonal-ranunculus-633.notion.site/Alan-J-Taylor-328f943cbbf080e99e47e97064bc694b?source=copy_link)
-- Email: alanjtaylor.1776@gmail.com
+This playbook is evolving and currently focuses on:
+
+### 1. Market & Customer Understanding
+• Defining ideal customer profiles (ICP)  
+• Identifying real pain points and buying triggers  
+• Mapping decision-making across stakeholders  
+
+### 2. Positioning & Messaging
+• Translating product capabilities into business value  
+• Aligning messaging with how customers actually buy  
+• Differentiating in competitive markets  
+
+### 3. Pipeline & Opportunity Development
+• Structured account targeting  
+• Opportunity creation frameworks  
+• Improving consistency in pipeline generation  
+
+### 4. Revenue Execution
+• Aligning discovery, value articulation, and closing  
+• Improving conversion through better value alignment  
+• Building repeatable sales processes  
+
+---
+
+## Why This Matters
+
+Many go-to-market challenges are not execution problems—they are alignment problems.
+
+This playbook is built around the idea that:
+
+→ Strong positioning drives better pipeline  
+→ Better pipeline drives more predictable revenue  
+→ Customer insight is the foundation of both  
+
+---
+
+## Background
+
+This work is informed by experience across:
+
+• SaaS and AI-driven solutions  
+• Enterprise sales and market expansion  
+• Leading go-to-market strategy (Autodesk, Atonix Digital)  
+• Building and operating a business  
+
+---
+
+## Direction
+
+This repository will continue to evolve with:
+
+• AI-driven GTM tools and frameworks  
+• Data-driven market analysis approaches  
+• Practical systems for scaling revenue  
+
+---
+
+## Connect
+
+LinkedIn: https://linkedin.com/in/alan-taylor
