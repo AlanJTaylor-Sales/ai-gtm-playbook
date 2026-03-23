@@ -1,4 +1,4 @@
-# AJ Taylor | Sales Playbook
+# AJ Taylor | ai-gtm-playbook
 
 This repository is a practical snapshot of how I think about enterprise sales, go-to-market execution, and the use of AI in modern revenue teams.
 
